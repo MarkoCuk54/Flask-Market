@@ -1,5 +1,6 @@
 ./vscode
 .vscode/launch.json
-./__pycache__
 __pycache__/market.cpython-310.pyc
 market.db
+__pycache__/
+*.py[cod]
